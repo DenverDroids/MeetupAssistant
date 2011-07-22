@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, MainActivity!</string>
+	<string name="app_name">Meetup Assistant</string>
+
+	<string name="authorizeMessage">
+		In order to use this application, you need to authorize this
+		application on meetup.com.
+		<br />
+		Clicking on the button below will open a new browser window where you
+		will be asked to grant permission to the application. You will be
+		returned back to the application after you select your response.
+	</string>
+	<string name="authorize">Authorize</string>
+
+</resources>
